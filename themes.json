@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Theme 1",
+        "events": [
+            {"notes": ["note", "third", "fifth"], "duration": "noire", "velocity": 100},
+            {"notes": ["note", "third", "fifth"], "duration": "noire", "velocity": 100},
+            {"notes": ["note", "third", "fifth"], "duration": "noire", "velocity": 100},
+            {"notes": ["third", "fifth"], "duration": "doubleCroche", "velocity": 90},
+            {"notes": ["third", "fifth"], "duration": "doubleCroche", "velocity": 90},
+            {"notes": ["fifth", "octave"], "duration": "croche", "velocity": 80}
+        ]
+    },
+    {
+        "name": "Theme 2",
+        "events": [
+            {"notes": ["note", "third", "fifth"], "duration": "blanche", "velocity": 110},
+            {"notes": ["note", "fifth"], "duration": "noire", "velocity": 95},
+            {"notes": ["note", "octave"], "duration": "croche", "velocity": 120},
+            {"notes": ["third", "fifth"], "duration": "noire", "velocity": 85}
+        ]
+    }
+]

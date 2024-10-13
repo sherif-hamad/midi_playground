@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Theme 1",
+    "events": [
+      {
+        "notes": [
+          "third"
+        ],
+        "duration": "noire",
+        "velocity": 90
+      },
+      {
+        "notes": [
+          "third"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 90
+      },
+      {
+        "notes": [
+          "fifth"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 80
+      },
+      {
+        "notes": [
+          "other interval (5)"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 100
+      },
+      {
+        "notes": [
+          "other interval (5)"
+        ],
+        "duration": "noire",
+        "velocity": 100
+      },
+      {
+        "notes": [
+          "other interval (8)"
+        ],
+        "duration": "noire",
+        "velocity": 90
+      },
+      {
+        "notes": [
+          "other interval (8)"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 90
+      },
+      {
+        "notes": [
+          "note"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 80
+      },
+      {
+        "notes": [
+          "minor seventh"
+        ],
+        "duration": "croche",
+        "velocity": 100
+      },
+      {
+        "notes": [
+          "minor seventh"
+        ],
+        "duration": "noire",
+        "velocity": 100
+      },
+      {
+        "notes": [
+          "other interval (2)"
+        ],
+        "duration": "noire",
+        "velocity": 90
+      },
+      {
+        "notes": [
+          "other interval (2)"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 90
+      },
+      {
+        "notes": [
+          "other interval (5)"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 80
+      },
+      {
+        "notes": [
+          "third"
+        ],
+        "duration": "croche",
+        "velocity": 100
+      },
+      {
+        "notes": [
+          "third"
+        ],
+        "duration": "noire",
+        "velocity": 100
+      },
+      {
+        "notes": [
+          "fifth"
+        ],
+        "duration": "noire",
+        "velocity": 90
+      },
+      {
+        "notes": [
+          "fifth"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 90
+      },
+      {
+        "notes": [
+          "minor seventh"
+        ],
+        "duration": "doubleCroche",
+        "velocity": 80
+      }
+    ]
+  }
+]
